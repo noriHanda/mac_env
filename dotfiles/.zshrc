@@ -1,7 +1,6 @@
-alias gp="git push"
 alias tr="tree ."
-alias zsh="vi ~/.zshrc"
-alias db="mysql -u root"
+alias zsh="code ~/.zshrc"
+
 export PATH=$HOME/.nodebrew/current/bin:$PATH
 export PATH=$HOME/.nodebrew/current/bin:$PATH
 export PATH="/Users/motegitakanori/Library/Python/3.8/bin"
